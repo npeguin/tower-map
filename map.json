@@ -23,9 +23,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/corridor-map\/map.json#front_of_tower"
+                 "value":"\/@\/tcm\/workadventure\/corridor#front_of_tower"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -53,9 +53,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json"
+                 "value":"\/@\/tcm\/workadventure\/tower"
                 }],
          "type":"tilelayer",
          "visible":true,
